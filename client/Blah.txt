@@ -1,0 +1,21 @@
+//ADMIN REDUCERS
+
+// ADD_NEW_VACATION
+
+// DELETE_VACATION
+
+//EDIT_VACATION
+
+//=================
+
+
+//USER REDUCERS !
+
+// FOLLOW_VAC
+
+//UNFOLLOW_VAC
+
+
+//REGISTER
+
+//LOGIN

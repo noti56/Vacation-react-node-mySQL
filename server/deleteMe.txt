@@ -1,0 +1,10 @@
+
+(`SELECT
+         vacations.vac_description,
+        vacations.city, vacations.country,
+        vacations.picture, vacations.price,
+        vacations.from_date, 
+        vacations.to_date, followers.vacation_id, followers.user_id
+        from followers
+        INNER JOIN vacations
+        WHERE vacations.id = ${token.id};`
